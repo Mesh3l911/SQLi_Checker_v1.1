@@ -3,7 +3,7 @@
 # SQLi_Checker v1.1 :
 <b>It's a tool to automate the process of testing websites against different SQLi types</b><br>
 <br>
-![](pic1.png) <br>
+![](pic1.png)  <br>
 ![](pic2.png) 
 ![](pic3.png) 
 <br>
