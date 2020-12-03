@@ -1,11 +1,11 @@
-# ...| يالله حيهم |...
+# <center>...| يالله حيهم |...</center>
 
 # SQLi_Checker v1.1 :
 <b>It's a tool to automate the process of testing websites against different SQLi types</b><br>
 <br>
-![](pic1.png)  <br>
+![](pic.png)  <br>
+![](pic1.png) 
 ![](pic2.png) 
-![](pic3.png) 
 <br>
 
 # Requirements :
@@ -44,6 +44,8 @@ Besides that the script now has multy-threading features , so that it can be muc
 2-Just insert whatever it asks.<br>
 3-Enjoy the results ^_*<br>
 
+P.s: ( inurl ) should stay at the same folder as the script
+<br>
 # Version :
 
 This is the first official version of SQLi_Checker_v1.1
