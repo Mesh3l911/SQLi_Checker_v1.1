@@ -9,7 +9,9 @@
 <br>
 
 # Requirements :
-You might need to import these modules :<br>
+
+1-Python3 <br>
+2-You might need to import these modules :<br>
 
 apt-get install requests<br>
 apt-get install python3-bs4<br>
