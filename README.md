@@ -8,13 +8,13 @@
 ![](pic2.png) 
 <br>
 
-# Requirements :
-
-pip install -r requirements.txt
-
 # Installation :
 git clone https://github.com/Mesh3l911/SQLi_Checker_v1.1.git
 <br>
+
+# Requirements :
+
+pip install -r requirements.txt
 
 # Features :<br>
 ![](Features.png)
