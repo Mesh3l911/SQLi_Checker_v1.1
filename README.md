@@ -10,15 +10,7 @@
 
 # Requirements :
 
-1-Python3 <br>
-2-You might need to import these modules :<br>
-
-apt-get install requests<br>
-apt-get install python3-bs4<br>
-apt-get install threading<br>
-apt-get install re<br>
-apt-get install time<br>
-<br>
+pip install -r requirements.txt
 
 # Installation :
 git clone https://github.com/Mesh3l911/SQLi_Checker_v1.1.git
