@@ -1,1 +1,45 @@
-# SQLi_Checker_v1.1
+# ...| يالله حيهم |...
+
+# SQLi_Checker v1.1 :
+It's a tool to automate the process of testing websites against different SQLi types.<br>
+![](pic1.png) <br>
+![](pic2.png) 
+![](pic3.png) 
+<br>
+
+# Requirements :
+You might need to import these modules :<br>
+
+apt-get install requests
+apt-get install python3-bs4
+apt-get install threading
+apt-get install re
+apt-get install time
+<br>
+
+# Installation :
+git clone https://github.com/Mesh3l911/SQLi_Checker_v1.1.git
+<br>
+
+# Features :
+I improved the beta version so that it has three different options instead of one <br>
+-Collected Urls<br>
+-By Dork<br>
+-By IP<br>
+
+also I've added 4 Blind SQLi types :<br>
+1-Blind_SQLi_Conditional_Responses<br>
+2-Blind_SQLi_Conditional_Errors<br>
+3-Blind_SQLi_Time_Delays<br>
+4-Blind_SQLi_Time_Delays_And_Information_retrieval<br>
+
+Besides that the script now has multy-threading features , so that it can be much faster <br>
+
+# Usage :
+1-Fire up the script and choose one of the three options.<br>
+2-Just insert whatever it asks.<br>
+3-Enjoy the results ^_*<br>
+
+# Version :
+This is the first official version of SQLi_Checker_v1.1
+
