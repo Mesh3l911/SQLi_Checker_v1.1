@@ -9,12 +9,12 @@
 <br>
 
 # Installation :
-git clone https://github.com/Mesh3l911/SQLi_Checker_v1.1.git
+<code>git clone https://github.com/Mesh3l911/SQLi_Checker_v1.1.git<code>
 <br>
 
 # Requirements :
 
-pip install -r requirements.txt
+<code>pip install -r requirements.txt</code>
 
 # Features :<br>
 ![](Features.png)
