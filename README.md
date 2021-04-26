@@ -1,7 +1,7 @@
 # <center>...| يالله حيهم |...</center>
 
 # SQLi_Checker v1.1 :
-<b>It's a tool to automate the process of testing websites against different SQLi types</b><br>
+<b>It's a tool to automate the process of testing websites against different SQLi types > Get method > based on (known) payloads list</b><br>
 <br>
 ![](pic.png)  <br>
 ![](pic1.png) 
