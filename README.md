@@ -31,3 +31,4 @@ P.s: ( inurl ) should stay at the same folder as the script
 
 This is the first official version of SQLi_Checker_v1.1
 
+  دعواتكم لي ولوالدي ولمن أحب
